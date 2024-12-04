@@ -26,11 +26,11 @@ const router = createBrowserRouter(
             <Route path="/signup" element={<RegistrationForm />} />
             <Route path="/login" element={<LoginForm />} />
             <Route path="*" element={<NotFoundPage />} />
+            <Route path="/category/:category/:name" element={<ProductDetailsPage />}/>
 
             {/* protected routes */}
             <Route element={<RequireAuth />}>
-                <Route path="/cart" element={<Cart />} />
-                <Route path="/category/:category/:name" element={<ProductDetailsPage />}/> {/* Updated dynamic route for products */}
+                <Route path="/cart" element={<Cart />} />{/* Updated dynamic route for products */}
             </Route>
         </Route>
     ),
