@@ -1,6 +1,4 @@
-import { Provider } from "react-redux";
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from "react-router-dom";
-import {store} from "./Components/Auth/store.jsx";
 
 // Components
 import MainLayout from "./Components/Layouts/MainLayout";
