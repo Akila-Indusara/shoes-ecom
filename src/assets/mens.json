@@ -1,0 +1,653 @@
+[
+  {
+    "Nike": [
+      {
+        "name": "Nike Air VaporMax Plus",
+        "price": "$210",
+        "type": "Casual wear",
+        "description": "The Nike Air VaporMax Plus looks to the past and propels you into the future. Nodding to the 1998 Air Max Plus with its floating cage, padded upper and heel logo, it adds revolutionary VaporMax Air technology to ramp up the comfort and create a modern look.",
+        "sizes": {
+          "white": [4, 4.5, 8, 8.5, 10, 11, 11.5, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5]
+        },
+        "images": {
+          "white": [
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/1.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/2.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/3.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/4.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/5.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/6.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/7.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/8.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/white/9.png"
+          ],
+          "black": [
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/1.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/2.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/3.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/4.jpg",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/5.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/6.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/7.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/8.jpg",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/black/9.png"
+          ],
+          "red": [
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/1.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/2.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/3.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/4.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/5.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/6.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/7.jpg",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/8.png",
+            "/images/shoes/mens/AIR_VAPORMAX_PLUS/red/9.png"
+          ]
+        }
+      },
+      {
+        "name": "Nike Blazer Mid '77 Vintage",
+        "price": "$105",
+        "type": "Casual wear",
+        "description": "We didn't invent the high-top, but we did perfect it. Sleek, simple but never basic, the leather and suede design softens with wear while remaining durable. The Blazer has endured for decades—time to find out why. So go ahead and feel the vintage vibes in this fresh edition with a timeless feel.",
+        "sizes": {
+          "white": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "yellow": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "white": [
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/1.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/2.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/3.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/4.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/5.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/6.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/7.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/8.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/9.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/white/10.png"
+          ],
+          "black": [
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/1.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/2.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/3.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/4.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/5.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/6.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/7.jpg",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/black/8.png"
+          ],
+          "yellow": [
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/1.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/2.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/3.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/4.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/5.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/6.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/7.png",
+            "/images/shoes/mens/BLAZER_MID_77_VNTG/yellow/8.jpg"
+          ]
+        }
+      },
+      {
+        "name": "Nike Dunk Low Retro",
+        "price": "$115",
+        "type": "Casual wear",
+        "description": "Recognizing the Dunk's roots as the top-ranking college team sneaker, the \"Be True To Your School\" pack looks to the original ad campaign for inspiration. Colors represent top-flight universities, while crisp leather has the perfect amount of sheen to make 'em a hands-down win. So lace up and show off that varsity spirit. Ya game?",
+        "sizes": {
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "yellow": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "blue": [
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/1.png",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/2.png",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/3.png",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/4.jpg",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/5.png",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/6.png",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/7.png",
+            "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/blue/8.png"
+          ],
+          "red": [
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/1.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/2.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/3.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/4.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/5.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/6.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/7.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/red/8.png"
+          ],
+          "yellow": [
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/1.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/2.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/3.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/4.jpg",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/5.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/6.png",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/7.jpg",
+              "/images/shoes/mens/NIKE_DUNK_LOW_RETRO/yellow/8.png"
+          ]
+        }
+      },
+      {
+        "name": "Air Jordan 1 Mid SE",
+        "price": "$135",
+        "type": "Casual wear",
+        "description": "Quality construction with legacy style? Expect nothing less from the AJ1. Fresh color blocking brings big university feels to this special edition while shiny patent leather keeps the look premium. Are you ready to rep MJ's legendary beginnings?",
+        "sizes": {
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "green": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "blue": [
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/1.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/2.jpg",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/3.jpg",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/4.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/5.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/6.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/7.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/blue/8.png"
+          ],
+          "black": [
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/1.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/2.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/3.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/4.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/5.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/6.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/7.jpg",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/black/8.jpg"
+          ],
+          "green": [
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/1.jpg",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/2.jpg",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/3.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/4.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/5.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/6.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/7.png",
+            "/images/shoes/mens/AIR_JORDAN_1_MID_SE/green/8.jpg"
+          ]
+        }
+      },
+      {
+        "name": "Nike Zoom Fly 6",
+        "price": "$170",
+        "type": "Sportswear",
+        "description": "The Zoom Fly 6 is with you every step of your run. Lighter than the Zoom Fly 5, its responsive ZoomX foam adds energy return to each stride, while a carbon fiber plate helps propel you to the finish line.",
+        "sizes": {
+          "orange": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "pink": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "orange": [
+            "/images/shoes/mens/ZOOM_FLY_6/orange/1.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/2.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/3.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/4.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/5.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/6.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/7.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/8.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/9.png",
+            "/images/shoes/mens/ZOOM_FLY_6/orange/10.png"
+          ],
+          "black": [
+            "/images/shoes/mens/ZOOM_FLY_6/black/1.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/2.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/3.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/4.jpg",
+            "/images/shoes/mens/ZOOM_FLY_6/black/5.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/6.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/7.jpg",
+            "/images/shoes/mens/ZOOM_FLY_6/black/8.jpg",
+            "/images/shoes/mens/ZOOM_FLY_6/black/9.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/10.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/11.png",
+            "/images/shoes/mens/ZOOM_FLY_6/black/12.png"
+          ],
+          "pink": [
+            "/images/shoes/mens/ZOOM_FLY_6/pink/1.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/2.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/3.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/4.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/5.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/6.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/7.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/8.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/9.png",
+            "/images/shoes/mens/ZOOM_FLY_6/pink/10.png"
+          ]
+        }
+      }
+    ],
+    "Adidas": [
+      {
+        "name": "Forum Low CL Shoes",
+        "price": "$100",
+        "type": "Casual wear",
+        "description": "This pair of adidas Forum Low CL shoes gives you the perfect balance of laid-back and retro style. You have nonstop comfort, thanks to a premium leather upper and soft textile lining. These versatile shoes are a wardrobe staple.",
+        "sizes": {
+          "orange": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "orange": [
+            "/images/shoes/mens/FORUM_LOW_CL/orange/1.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/2.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/3.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/4.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/5.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/6.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/7.avif",
+            "/images/shoes/mens/FORUM_LOW_CL/orange/8.avif"
+          ],
+          "black": [
+              "/images/shoes/mens/FORUM_LOW_CL/black/1.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/2.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/3.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/4.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/5.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/6.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/7.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/black/8.avif"
+          ],
+          "blue": [
+              "/images/shoes/mens/FORUM_LOW_CL/blue/1.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/2.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/3.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/4.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/5.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/6.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/7.avif",
+              "/images/shoes/mens/FORUM_LOW_CL/blue/8.avif"
+          ]
+        }
+      },
+      {
+        "name": "Gazelle Bold Shoes",
+        "price": "$120",
+        "type": "Casual wear",
+        "description": "Heritage style meets everyday elegance in these adidas Gazelle Bold shoes. Taking design cues from the beloved '70s trainers, this pair redefines the silhouette with a layered platform outsole and ultra-rich colors. A luxe velvet upper adds a touch of decadence while suede details reference the rich materials of the original style. Once an athletic favorite, now an iconic staple, these shoes are ready for wherever the day takes you.",
+        "sizes": {
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "green": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "red": [
+            "/images/shoes/mens/GAZELLE_BOLD/red/1.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/2.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/3.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/4.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/5.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/6.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/7.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/red/8.avif"
+          ],
+          "black": [
+            "/images/shoes/mens/GAZELLE_BOLD/black/1.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/2.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/3.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/4.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/5.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/6.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/7.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/8.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/9.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/10.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/black/11.avif"
+          ],
+          "green": [
+            "/images/shoes/mens/GAZELLE_BOLD/green/1.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/2.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/3.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/4.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/5.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/6.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/7.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/8.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/9.avif",
+            "/images/shoes/mens/GAZELLE_BOLD/green/10.avif"
+          ]
+        }
+      },
+      {
+        "name": "Runfalcon 5 Running Shoes",
+        "price": "$65",
+        "type": "Sportswear",
+        "description": "From the track to the treadmill, run toward your goals in these running shoes from adidas. The cushy Cloudfoam midsole feels soft and supportive from the minute you step in. A breathable mesh upper and durable Adiwear outsole make these go-to trainers perfect for all-day wear.",
+        "sizes": {
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "white": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "black": [
+            "/images/shoes/mens/RUNFALCON_5/black/1.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/2.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/3.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/4.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/5.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/6.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/7.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/8.avif",
+            "/images/shoes/mens/RUNFALCON_5/black/9.avif"
+          ],
+          "white": [
+            "/images/shoes/mens/RUNFALCON_5/white/1.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/2.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/3.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/4.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/5.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/6.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/7.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/8.avif",
+            "/images/shoes/mens/RUNFALCON_5/white/9.avif"
+          ]
+        }
+      },
+      {
+        "name": "Y-3 Gazelle",
+        "price": "$350",
+        "type": "Casual wear",
+        "description": "Loved for decades, the adidas Gazelle shoes stay classic. Here they're reimagined through the viewpoint of Y-3, bringing a rich, uniform look to the soft suede that extends from the upper all the way to the tooling. The inside is lined with leather and suede, and Yohji Yamamoto's signature delivers the final signoff.",
+        "sizes": {
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "pink": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "blue": [
+            "/images/shoes/mens/Y_3_GAZELLE/blue/1.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/2.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/3.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/4.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/5.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/6.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/7.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/8.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/9.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/10.avif",
+            "/images/shoes/mens/Y_3_GAZELLE/blue/11.avif"
+          ],
+          "black": [
+              "/images/shoes/mens/Y_3_GAZELLE/black/1.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/2.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/3.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/4.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/5.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/6.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/7.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/8.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/9.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/10.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/black/11.avif"
+          ],
+          "pink": [
+              "/images/shoes/mens/Y_3_GAZELLE/pink/1.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/2.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/3.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/4.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/5.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/6.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/7.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/8.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/9.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/10.avif",
+              "/images/shoes/mens/Y_3_GAZELLE/pink/11.avif"
+          ]
+        }
+      },
+      {
+        "name": "Adilette Comfort Slides",
+        "price": "$35",
+        "type": "Casual wear",
+        "description": "Whether you're heading to the locker room after an intense gym session or at home recovering on the couch, these slides keep your feet wrapped in lightweight comfort. Pair them with socks and shorts for your post-workout look or with your favorite swimwear for the ultimate beach vibe. The adidas 3-Stripes design completes your sport style.",
+        "sizes": {
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "black": [
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/1.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/2.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/3.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/4.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/5.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/6.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/7.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/8.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/black/9.avif"
+          ],
+          "red": [
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/1.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/2.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/3.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/4.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/5.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/6.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/7.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/red/8.avif"
+          ],
+          "blue": [
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/1.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/2.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/3.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/4.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/5.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/6.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/7.avif",
+            "/images/shoes/mens/ADILETTE_COMFORT_SLIDES/blue/8.avif"
+          ]
+        }
+      }
+    ],
+    "Puma": [
+      {
+        "name": "Leadcat 2.0",
+        "price": "$30",
+        "type": "Casual wear",
+        "description": "Step into comfort and style with the PUMA Leadcat 2.0 slide sandals. These cushioned slide sandals feature the iconic PUMA logo, making them a must-have for any sneakerhead. With a lightweight design, these slides are perfect for on-the-go comfort and effortless style. Whether you're hitting the beach or running errands, the Leadcat 2.0 slides will keep your feet feeling comfortable all day long. Upgrade your footwear game with these stylish and functional slide sandals from PUMA.",
+        "sizes": {
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "white": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "black": [
+            "/images/shoes/mens/LEADCAT/black/1.avif",
+            "/images/shoes/mens/LEADCAT/black/2.avif",
+            "/images/shoes/mens/LEADCAT/black/3.avif",
+            "/images/shoes/mens/LEADCAT/black/4.avif",
+            "/images/shoes/mens/LEADCAT/black/5.avif",
+            "/images/shoes/mens/LEADCAT/black/6.avif"
+          ],
+          "white": [
+              "/images/shoes/mens/LEADCAT/white/1.avif",
+              "/images/shoes/mens/LEADCAT/white/2.avif",
+              "/images/shoes/mens/LEADCAT/white/3.avif",
+              "/images/shoes/mens/LEADCAT/white/4.avif",
+              "/images/shoes/mens/LEADCAT/white/5.avif",
+              "/images/shoes/mens/LEADCAT/white/6.avif"
+          ],
+          "blue": [
+              "/images/shoes/mens/LEADCAT/blue/1.avif",
+              "/images/shoes/mens/LEADCAT/blue/2.avif",
+              "/images/shoes/mens/LEADCAT/blue/3.avif",
+              "/images/shoes/mens/LEADCAT/blue/4.avif",
+              "/images/shoes/mens/LEADCAT/blue/5.avif",
+              "/images/shoes/mens/LEADCAT/blue/6.avif"
+          ]
+        }
+      },
+      {
+        "name": "Suede Trippy",
+        "price": "$85",
+        "type": "Casual wear",
+        "description": "The Suede hit the scene in 1968 and has been changing the game ever since. It's been worn by icons of every generation, and it's stayed classic through it all. Instantly recognisable and constantly reinvented, Suede's legacy continues to grow and be legitimised by the authentic and expressive individuals that embrace the iconic shoe. Make a statement with this Trippy version, which features hairy suede and stamped and debossed details.",
+        "sizes": {
+          "brown": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "gray": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "green": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "brown": [
+            "/images/shoes/mens/SUEDE_TRIPPY/brown/1.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/brown/2.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/brown/3.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/brown/4.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/brown/5.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/brown/6.avif"
+          ],
+          "gray": [
+            "/images/shoes/mens/SUEDE_TRIPPY/gray/1.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/gray/2.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/gray/3.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/gray/4.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/gray/5.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/gray/6.avif"
+          ],
+          "green": [
+            "/images/shoes/mens/SUEDE_TRIPPY/green/1.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/green/2.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/green/3.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/green/4.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/green/5.avif",
+            "/images/shoes/mens/SUEDE_TRIPPY/green/6.avif"
+          ]
+        }
+      },
+      {
+        "name": "PUMA x LAMELO BALL MB.03 Lo Team",
+        "price": "$115",
+        "type": "Sportswear",
+        "description": "Give your uniform an otherworldly upgrade with MB.03 LO Team. The beloved monochromatic colorway returns for the MB.03 LO. This shoe features ultra-supportive NITROFOAM™ for stability and comfort when driving the paint, braking on the dime, and making full-court sprints look easy. Your game will never be the same.",
+        "sizes": {
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "blue": [
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/blue/1.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/blue/2.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/blue/3.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/blue/4.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/blue/5.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/blue/6.avif"
+          ],
+          "black": [
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/black/1.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/black/2.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/black/3.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/black/4.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/black/5.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/black/6.avif"
+          ],
+          "red": [
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/red/1.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/red/2.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/red/3.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/red/4.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/red/5.avif",
+            "/images/shoes/mens/PUMA_LAMELO_BALL_MB03/red/6.avif"
+          ]
+        }
+      },
+      {
+        "name": "Speedcat OG",
+        "price": "$100",
+        "type": "Casual wear",
+        "description": "An icon of racing culture, the PUMA Speedcat has been synonymous with speed, precision, and unparalleled performance for over 25 years. It originated as a fireproof Formula 1® footwear style, but over the decades it found itself on a new circuit – transcending the tracks of Monaco for the streets of global fashion capitals. Wrapped in soft suede and premium leather, this silhouette is reissued in its original red and black colorways with a new PUMA Cat Logo at the front.",
+        "sizes": {
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "red": [
+            "/images/shoes/mens/SPEEDCAT_OG/red/1.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/red/2.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/red/3.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/red/4.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/red/5.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/red/6.avif"
+          ],
+          "black": [
+            "/images/shoes/mens/SPEEDCAT_OG/black/1.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/black/2.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/black/3.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/black/4.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/black/5.avif",
+            "/images/shoes/mens/SPEEDCAT_OG/black/6.avif"
+          ]
+        }
+      },
+      {
+        "name": "Suede XL",
+        "price": "$85",
+        "type": "Casual wear",
+        "description": "This larger-than-life remix of the iconic Suede Classic has been blazing its own path. The Suede XL draws from PUMA's Y2K-inspired styles while retaining classic Suede DNA. But there's a twist. With its extra padding, extra-large tongue, and extra-thick laces, Suede XL maximizes everything. This sneaker is the perfect mix of understated and elevated.",
+        "sizes": {
+          "blue": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "white": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "black": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "red": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14],
+          "yellow": [4, 4.5, 5, 6, 8, 8.5, 10, 11, 11.5, 12, 13, 14]
+        },
+        "images": {
+          "blue": [
+            "/images/shoes/mens/SUEDE_XL/blue/1.avif",
+            "/images/shoes/mens/SUEDE_XL/blue/2.avif",
+            "/images/shoes/mens/SUEDE_XL/blue/3.avif",
+            "/images/shoes/mens/SUEDE_XL/blue/4.avif",
+            "/images/shoes/mens/SUEDE_XL/blue/5.avif",
+            "/images/shoes/mens/SUEDE_XL/blue/6.avif"
+          ],
+          "white": [
+            "/images/shoes/mens/SUEDE_XL/white/1.avif",
+            "/images/shoes/mens/SUEDE_XL/white/2.avif",
+            "/images/shoes/mens/SUEDE_XL/white/3.avif",
+            "/images/shoes/mens/SUEDE_XL/white/4.avif",
+            "/images/shoes/mens/SUEDE_XL/white/5.avif",
+            "/images/shoes/mens/SUEDE_XL/white/6.avif"
+          ],
+          "black": [
+            "/images/shoes/mens/SUEDE_XL/black/1.avif",
+            "/images/shoes/mens/SUEDE_XL/black/2.avif",
+            "/images/shoes/mens/SUEDE_XL/black/3.avif",
+            "/images/shoes/mens/SUEDE_XL/black/4.avif",
+            "/images/shoes/mens/SUEDE_XL/black/5.avif",
+            "/images/shoes/mens/SUEDE_XL/black/6.avif"
+          ],
+          "red": [
+            "/images/shoes/mens/SUEDE_XL/red/1.avif",
+            "/images/shoes/mens/SUEDE_XL/red/2.avif",
+            "/images/shoes/mens/SUEDE_XL/red/3.avif",
+            "/images/shoes/mens/SUEDE_XL/red/4.avif",
+            "/images/shoes/mens/SUEDE_XL/red/5.avif",
+            "/images/shoes/mens/SUEDE_XL/red/6.avif"
+          ],
+          "yellow": [
+            "/images/shoes/mens/SUEDE_XL/yellow/1.avif",
+            "/images/shoes/mens/SUEDE_XL/yellow/2.avif",
+            "/images/shoes/mens/SUEDE_XL/yellow/3.avif",
+            "/images/shoes/mens/SUEDE_XL/yellow/4.avif",
+            "/images/shoes/mens/SUEDE_XL/yellow/5.avif",
+            "/images/shoes/mens/SUEDE_XL/yellow/6.avif"
+          ]
+        }
+      }
+    ]
+  }
+]
