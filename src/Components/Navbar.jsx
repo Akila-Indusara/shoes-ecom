@@ -1,10 +1,12 @@
 import { NavLink } from "react-router-dom";
-import { useState } from "react";
+import {useEffect, useRef, useState} from "react";
 import {FaBars, FaRegUserCircle, FaTimes} from "react-icons/fa";
 import {FaCartShopping} from "react-icons/fa6";
 
 function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false); // State to manage menu visibility
+    const [showLogoutButton, setShowLogoutButton] = useState(false);
+    const logoutRef = useRef(null); // Reference to logout button popup
 
     const linkClass = ({ isActive }) =>
         isActive
@@ -14,6 +16,35 @@ function Navbar() {
     const menuClick = () => {
         setMenuOpen(!menuOpen);
     };
+
+    const toggleLogoutPopup = () => {
+        setShowLogoutButton((prev) => !prev);
+    };
+
+    // Close popup when clicking outside of it
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            if (logoutRef.current && !logoutRef.current.contains(event.target)) {
+                setShowLogoutButton(false);
+            }
+        };
+
+        if (showLogoutButton) {
+            document.addEventListener("mousedown", handleClickOutside);
+        } else {
+            document.removeEventListener("mousedown", handleClickOutside);
+        }
+
+        return () => {
+            document.removeEventListener("mousedown", handleClickOutside);
+        };
+    }, [showLogoutButton]);
+
+    function logout() {
+        localStorage.removeItem("isAuthenticated");
+        sessionStorage.removeItem("isAuthenticated");
+        window.location.reload();
+    }
 
     return (
         <>
@@ -26,7 +57,7 @@ function Navbar() {
 
                 <div className="bg-white opacity-90 px-1 rounded-md">
                     <NavLink to="/" className="">
-                        <img src={"/images/logo-placeholder.png"}  alt="Logo" className="h-10" />
+                        <img src={"/shoes-ecom/images/logo-placeholder.png"}  alt="Logo" className="h-10" />
                     </NavLink>
                 </div>
 
@@ -90,9 +121,24 @@ function Navbar() {
                     </div>
                 </div>
 
-                <div className="flex items-center text-3xl gap-8">
-                    <FaRegUserCircle />
-                    <FaCartShopping />
+                <div className="flex items-center text-3xl gap-8" ref={logoutRef}>
+                    <div className='relative'>
+                        <FaRegUserCircle onClick={toggleLogoutPopup}/>
+                        {showLogoutButton && (
+                            <div className="absolute right-0 mt-2  z-50 bg-white border rounded shadow-lg">
+                                <button
+                                    onClick={ logout }
+                                    className="block w-full text-center text-xl px-4 py-2 text-gray-700 hover:bg-gray-100"
+                                >
+                                    Logout
+                                </button>
+                            </div>
+                        )}
+                    </div>
+                    <NavLink to="/cart">
+
+                        <FaCartShopping />
+                    </NavLink>
                 </div>
             </div>
         </>

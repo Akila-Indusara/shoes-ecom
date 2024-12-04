@@ -1,32 +1,48 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-    isAuthenticated: false,
-    user: null,
-    message: "",
+    user: JSON.parse(sessionStorage.getItem('user')) || null,
+    isAuthenticated: JSON.parse(sessionStorage.getItem('isAuthenticated')) || false,
+    message: '',
 };
 
 const authSlice = createSlice({
-    name: "auth",
+    name: 'auth',
     initialState,
     reducers: {
         register: (state, action) => {
-            state.user = action.payload; // Save user details
-            state.message = "Registration successful!";
+            const { name, email, password } = action.payload;
+            state.user = { name, email, password };
+            state.isAuthenticated = true;
+            state.message = 'Registration successful!';
+
+            // Save to sessionStorage
+            sessionStorage.setItem('user', JSON.stringify(state.user));
+            sessionStorage.setItem('isAuthenticated', JSON.stringify(state.isAuthenticated));
         },
         login: (state, action) => {
             const { email, password } = action.payload;
-            if (state.user && state.user.email === email && state.user.password === password) {
+            const storedUser = JSON.parse(sessionStorage.getItem('user'));
+
+            if (storedUser && email === storedUser.email && password === storedUser.password) {
+                state.user = storedUser;
                 state.isAuthenticated = true;
-                state.message = "Login successful!";
+                state.message = 'Login successful!';
+
+                // Update sessionStorage
+                sessionStorage.setItem('isAuthenticated', JSON.stringify(state.isAuthenticated));
             } else {
-                state.message = "Invalid email or password.";
+                state.message = 'Invalid credentials!';
             }
         },
         logout: (state) => {
-            state.isAuthenticated = false;
             state.user = null;
-            state.message = "Logged out.";
+            state.isAuthenticated = false;
+            state.message = 'Logged out successfully!';
+
+            // Clear sessionStorage
+            sessionStorage.removeItem('user');
+            sessionStorage.removeItem('isAuthenticated');
         },
     },
 });

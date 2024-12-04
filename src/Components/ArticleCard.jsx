@@ -1,7 +1,6 @@
 import {Link} from "react-router-dom";
 
 function ArticleCard(article) {
-    console.log(article)
     return (
         <div className="mx-auto shadow rounded-md p-3 m-3 mb-10 w-[300px] hover:scale-105 transition-transform hover:shadow-blue-500">
             <Link to={`/article/${article.title}`}>

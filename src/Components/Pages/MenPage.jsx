@@ -4,6 +4,7 @@ import {useEffect, useRef, useState} from "react";
 import {MdKeyboardArrowDown} from "react-icons/md";
 import Filter from "../Filter.jsx";
 import {FaFilter, FaTimes} from "react-icons/fa";
+import {useNavigate} from "react-router-dom";
 
 function MenPage() {
     const [isDropDownOpen, setIsDropDownOpen] = useState(false);
@@ -17,6 +18,8 @@ function MenPage() {
     const [sortedProducts, setSortedProducts] = useState();
     const [loading, setLoading] = useState(true);
     const [sort, setSort] = useState("Name ( A - Z )");
+
+    const navigate = useNavigate();
 
     useEffect(() => {
         const sortAndFlattenProducts = (data, sortBy) => {
@@ -265,7 +268,8 @@ function MenPage() {
                         {loading ? ("Loading...")
                             : (
                                 sortedProducts.map(product => (
-                                    <div key={product.name}>
+                                    <div key={product.name} onClick={() => navigate(`/category/men/${product.name}`,
+                                        { state: { item: product } })}>
                                         <ProductCard product={product} />
                                     </div>
                                 ))
