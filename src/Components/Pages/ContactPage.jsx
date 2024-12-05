@@ -1,5 +1,6 @@
 import {FaFacebook} from "react-icons/fa";
 import {FaSquareInstagram, FaSquareXTwitter} from "react-icons/fa6";
+import {NavLink} from "react-router-dom";
 
 const ContactPage = () => {
     return (
@@ -13,9 +14,9 @@ const ContactPage = () => {
                 <h2 className="text-xl font-semibold text-gray-800 mb-2">Email Us</h2>
                 <p className="text-lg text-gray-700 mb-4">
                     You can reach us via email at &nbsp;
-                    <a href="mailto:support@shoeshop.com" className="text-blue-600">
+                    <NavLink to="#" className="text-blue-600">
                         xxx@support.com
-                    </a>.
+                    </NavLink>.
                 </p>
             </div>
 
@@ -25,15 +26,15 @@ const ContactPage = () => {
                     Stay updated on the latest trends, offers, and new arrivals by following us on social media:
                 </p>
                 <div className="flex justify-center space-x-6 text-3xl">
-                    <a href="https://www.facebook.com/shoeshop" target="_blank" rel="noopener noreferrer" className="text-blue-600">
+                    <NavLink to="#" target="_blank" rel="noopener noreferrer" className="text-blue-600">
                         <FaFacebook />
-                    </a>
-                    <a href="https://www.twitter.com/shoeshop" target="_blank" rel="noopener noreferrer" className="text-blue-400">
+                    </NavLink>
+                    <NavLink to="#" target="_blank" rel="noopener noreferrer" className="text-blue-400">
                         <FaSquareXTwitter />
-                    </a>
-                    <a href="https://www.instagram.com/shoeshop" target="_blank" rel="noopener noreferrer" className="text-pink-600">
+                    </NavLink>
+                    <NavLink to="#" target="_blank" rel="noopener noreferrer" className="text-pink-600">
                         <FaSquareInstagram />
-                    </a>
+                    </NavLink>
                 </div>
             </div>
 
