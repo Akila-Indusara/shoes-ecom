@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import {useDispatch, useSelector} from 'react-redux';
 import { register } from '../Auth/authSlice.jsx';
-import {useLocation, useNavigate} from "react-router-dom";
+import {NavLink, useLocation, useNavigate} from "react-router-dom";
 
 const RegistrationForm = () => {
     const [form, setForm] = useState({ name: '', email: '', password: '' });
@@ -99,9 +99,9 @@ const RegistrationForm = () => {
 
                 <p className="mt-4 text-center text-gray-600">
                     Already have an account?{' '}
-                    <a href="/shoes-ecom/login" className="text-blue-500 hover:underline">
+                    <NavLink to={"/shoes-ecom/login"} className="text-blue-500 hover:underline">
                         Login
-                    </a>
+                    </NavLink>
                 </p>
                 {message && (
                     <p

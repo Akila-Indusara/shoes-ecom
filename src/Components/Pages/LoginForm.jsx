@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { login } from '../Auth/authSlice.jsx';
-import {useLocation, useNavigate} from "react-router-dom";
+import {NavLink, useLocation, useNavigate} from "react-router-dom";
 
 const LoginForm = () => {
     const [form, setForm] = useState({ email: '', password: '' });
@@ -75,7 +75,7 @@ const LoginForm = () => {
                     Login
                 </button>
                 <p className="mt-4 text-center">
-                    Don&#39;t have an account? <a href="/shoes-ecom/signup" className="text-blue-500">Register</a>
+                    Don&#39;t have an account? <NavLink className="text-blue-500" to={"/shoes-ecom/signup"}>Register</NavLink>
                 </p>
                 {message && (
                     <p
